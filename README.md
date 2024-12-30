@@ -8,6 +8,8 @@ Russian:Обновленная версия приложения в стиле T
 English:Updated version of the application in Temple OS style
 ##
 
+[https://www.youtube.com/watch?v=3grTZ1ZBrtY](https://www.youtube.com/watch?v=3grTZ1ZBrtY)
+
 # Russian version v1
 <p align="center">
   <img src="https://i.imgur.com/N5n6DSI.png" width="500">
